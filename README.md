@@ -17,9 +17,10 @@
 2. Generate your own iMac14,4 serial number etc.
 
 ## DONATE
-![image](https://user-images.githubusercontent.com/10944370/136166690-2ffc29ee-b9e7-4efa-be53-062221553970.png=100x100)
-![image](https://user-images.githubusercontent.com/10944370/136166714-e84451fb-fd9b-481c-9ef0-d816b7a20ded.png=100x100)
-
+<div align="left">
+	<img src="https://user-images.githubusercontent.com/10944370/136166690-2ffc29ee-b9e7-4efa-be53-062221553970.png" alt="Editor" width="400">
+  <img src="https://user-images.githubusercontent.com/10944370/136166714-e84451fb-fd9b-481c-9ef0-d816b7a20ded.png" alt="Editor" width="400">
+</div>
 
 ## Geekbench
 https://browser.geekbench.com/v5/cpu/10177867
