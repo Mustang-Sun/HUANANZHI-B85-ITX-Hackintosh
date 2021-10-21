@@ -11,10 +11,12 @@
 - AUDIO: ALC662 workwith appalc alcid=17 👌
 - NETWORK: RTL8111 👌
 - WLAN: Currently still not install m2 wifi🤫
+- VIDEO: Dual Monitor successful, which you have to use DP and HDMI without convert component👌 .
 
 ## USAGE | 使用方法
 1. Just git clone this repo to your EFI partition directly.｜直接git clone当前的仓库到本地的efi分区
-2. Generate your own iMac14,4 serial number etc.｜使用序列号生成工具填充自己的序列号
+2. You can also download EFI release file.
+3. Generate your own iMac14,4 serial number etc.｜使用序列号生成工具填充自己的序列号
 
 ## DONATE | 打赏
 <div align="left">
