@@ -26,3 +26,6 @@
 
 ## Geekbench | 跑分
 https://browser.geekbench.com/v5/cpu/10177867
+
+## Latest Version | 当前最新版本截图
+![image](https://user-images.githubusercontent.com/10944370/150667383-c6264cfd-c6de-481d-87d1-242914e634c5.png)
