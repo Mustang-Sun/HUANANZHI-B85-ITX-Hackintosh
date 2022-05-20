@@ -24,6 +24,13 @@
   <img src="https://user-images.githubusercontent.com/10944370/136166714-e84451fb-fd9b-481c-9ef0-d816b7a20ded.png" alt="Editor" width="400">
 </div>
 
+## TODOLIST
+- try to match 4k display 60Hz, suddenly I noticed , forgot to notice guys to use suitable FAKE MAC MODEL
+![image](https://user-images.githubusercontent.com/10944370/169428648-cc6279df-0915-4a4c-ac7c-b5cbcc82bef5.png)
+
+- update oc
+
+
 ## Geekbench | 跑分
 https://browser.geekbench.com/v5/cpu/10177867
 
