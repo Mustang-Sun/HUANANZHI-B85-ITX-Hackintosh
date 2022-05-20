@@ -26,6 +26,7 @@
 
 ## TODOLIST
 - try to match 4k display 60Hz, suddenly I noticed , forgot to notice guys to use suitable FAKE MAC MODEL
+- https://support.apple.com/zh-cn/HT210105
 ![image](https://user-images.githubusercontent.com/10944370/169428648-cc6279df-0915-4a4c-ac7c-b5cbcc82bef5.png)
 
 - update oc
