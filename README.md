@@ -1,5 +1,8 @@
 # HUANANZHI-B85-ITX-Hackintosh | 华南B85-ITX 黑苹果
 
+## ISSUES | 问题
+- B85-ITX板载缓存个人推断可能存在BIOS软件层面的缓存问题，4k60无法在DP口输出。
+
 ## TECH LIST | 配置清单
 - CPU: i5-4690
 - MEM: DUAL-CHANNEL 16G=8x2
